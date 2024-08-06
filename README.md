@@ -1,4 +1,4 @@
-# tableau_challeng
+# tableau_challenge
 
 
 Data for this challenge was obtained from https://citibikenyc.com/system-data as instructed. 
